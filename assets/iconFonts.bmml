@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="430" measuredH="386" mockupW="293" mockupH="218">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="146" y="230" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>an%20icon%20font%20can%20show%20a%20tool%20icon%20when%20a%20class%20is%20applied%20to%20a%20header%2C%20and%20then%20in%20the%20header%20of%20a%20section%2C%20that%20hammer%20tool%20icon%20shows%2C%20in%20front%20of%20the%20words%20Tools%0A%20%0AOr%20likewise%20the%20gears%20icon%20can%20show%2C%20in%20front%20of%20Settings.</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="137" y="168" w="293" h="218" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Section%20of%20page</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="146" y="183" w="217" h="39" measuredW="217" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="217" h="39" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <borderColor>6710886</borderColor>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="6" y="3" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <icon>GearIcon%7Csmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="42" y="10" w="56" h="-1" measuredW="53" measuredH="21" zOrder="2" locked="false" isInGroup="5">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Settings</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
